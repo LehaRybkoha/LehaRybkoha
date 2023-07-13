@@ -26,6 +26,8 @@
 <p id="about">
  <img align="right" width="350" src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Coding gif" />
 
+ <br>
+
   Опыт разработки <b>2 года</b>
 
   LVL: <b>Middle</b>
@@ -77,7 +79,7 @@
 - [Интернет-магазин Xiaomi ](https://ru-mi.com/) (Vue v2)
 - [Интернет-магазин Ralf Ringer ](https://ralf.ru/) (Vue v2)
 - [Интернет-магазин Street beat](https://street-beat.ru/) (Vue v2)
-- [Интернет-магазин Lacoste](https://lacoste.ru/) (Vue v2)
+- [Интернет-магазин Lacoste](https://lacoste.ru/) (Nuxt v2)
 
 - [Web 3 проект Roobinum](https://roobinium.ca/) (Vue v3, Composition API)
 - [Web 3 проект Undeads](https://undeads.com/) (Vue v3, Composition API)
@@ -87,11 +89,12 @@
 - [Интернет-магазин Melon Fashion Group <в разработке>](https://ru.fashionnetwork.com/news/Melon-fashion-group-prezentoval-novyy-brend-idol,1505297.html) (Nuxt v3, Composition API, Typescript)
 - [CRM-система ( Mobile )](https://easyus.app) (Nuxt v2)
   - [Behance](https://www.behance.net/gallery/131650661/EasyUs-CRM-System-UXUI)
+- [XLDate Mobile App](https://www.behance.net/gallery/137004745/XLDate-Mobile-Dating-APP) (Capacitor for nativity with IOS and Android + Nuxt 2 + Typescript)
 
 - [Лендинг для биржи](http://rebel.roobin.xyz/) (React)
 - [Рекламный лендинг](http://horizon.roobin.xyz/) (React)
 - [Лендинг для компании Dating Tech Group](https://dating-vacancy.vercel.app/) (Vue v2)
 - [Лендинг для фотостудии](https://photo-samara.vercel.app/) (Vue v2)
-  
+
 ### Pet
 - [Radar shader on GLSL ](https://codesandbox.io/s/glsl-fragment-shader-forked-rgs5m2)
