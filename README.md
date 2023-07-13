@@ -81,6 +81,7 @@
 - [Интернет-магазин Street beat](https://street-beat.ru/) (Vue v2)
 - [Интернет-магазин Lacoste](https://lacoste.ru/) (Nuxt v2)
 
+- [Сайт с пронозами курсов валют](https://indexaco.com/ru) (Солянка из разных технологий, где-то Vue v2, где-то что-то еще, но большая часть была переписана на обычный JS)
 - [Web 3 проект Roobinum](https://roobinium.ca/) (Vue v3, Composition API)
 - [Web 3 проект Undeads](https://undeads.com/) (Vue v3, Composition API)
 
