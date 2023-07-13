@@ -1,4 +1,6 @@
 <!-- Intro  -->
+<br>
+<br>
 <h3 align="center">
         <samp>&gt; Привет! Меня зовут <b>Алексей</b>
         </samp>
