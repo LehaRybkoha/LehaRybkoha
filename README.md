@@ -92,4 +92,4 @@
 - [Лендинг для фотостудии](https://photo-samara.vercel.app/) (Vue v2)
   
 ### Pet
-- [Radar shader on GLSL ](https://codesandbox.io/s/glsl-fragment-shader-forked-rgs5m2)https://codesandbox.io/s/glsl-fragment-shader-forked-rgs5m2)
+- [Radar shader on GLSL ](https://codesandbox.io/s/glsl-fragment-shader-forked-rgs5m2)
