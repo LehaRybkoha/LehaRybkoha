@@ -90,3 +90,6 @@
 - [Рекламный лендинг](http://horizon.roobin.xyz/) (React)
 - [Лендинг для компании Dating Tech Group](https://dating-vacancy.vercel.app/) (Vue v2)
 - [Лендинг для фотостудии](https://photo-samara.vercel.app/) (Vue v2)
+  
+### Pet
+- [Radar shader on GLSL](https://codesandbox.io/s/glsl-fragment-shader-forked-rgs5m2)https://codesandbox.io/s/glsl-fragment-shader-forked-rgs5m2)
