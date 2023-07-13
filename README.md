@@ -85,7 +85,6 @@
 - [Интернет-магазин Melon Fashion Group <в разработке>](https://ru.fashionnetwork.com/news/Melon-fashion-group-prezentoval-novyy-brend-idol,1505297.html) (Nuxt v3, Composition API, Typescript)
 - [CRM-система ( Mobile )](https://easyus.app) (Nuxt v2)
   - [Behance](https://www.behance.net/gallery/131650661/EasyUs-CRM-System-UXUI)
-  - [Easyus](https://easyus.ru/)
 
 - [Лендинг для биржи](http://rebel.roobin.xyz/) (React)
 - [Рекламный лендинг](http://horizon.roobin.xyz/) (React)
