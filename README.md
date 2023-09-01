@@ -86,8 +86,8 @@
 - [Web 3 проект Undeads](https://undeads.com/) (Vue v3, Composition API)
 
 ### Личное участие в разработке с нуля
+- [Интернет-магазин Melon Fashion Group Idol](https://idol.ru) (Nuxt v3, Composition API, Typescript)
 - [Интернет-магазин MachIndex](https://machindex.ru/) (Сложная архитектура из статичных JS, SCSS, HTML без фреймворков)
-- [Интернет-магазин Melon Fashion Group <в разработке>](https://ru.fashionnetwork.com/news/Melon-fashion-group-prezentoval-novyy-brend-idol,1505297.html) (Nuxt v3, Composition API, Typescript)
 - [CRM-система ( Mobile )](https://easyus.app) (Nuxt v2)
   - [Behance](https://www.behance.net/gallery/131650661/EasyUs-CRM-System-UXUI)
 - [XLDate Mobile App](https://www.behance.net/gallery/137004745/XLDate-Mobile-Dating-APP) (Capacitor for nativity with IOS and Android + Nuxt 2 + Typescript)
